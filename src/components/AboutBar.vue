@@ -1,14 +1,12 @@
 <template>
   <div class="container-about-us">
     <div>
-      <h2>O que é nome?</h2>
+      <h2>O que é o Health Hub?</h2>
       <p>
-        O Nome é um site que busca conectar as pessoas. É é conectar pessoas que
-        não tem acesso a coleta seletiva em sua vizinhança, com comércios que
-        buscam aumentar o fluxo de clientes. Através do Recicloop, além de poder
-        ajudar o planeta dando a destinação correta para os resíduos, o usuário
-        terá a chance de acumular pontos e resgatar recompensas, como cupons e
-        brindes.
+        O Health Hub é um site que busca conectar os clientes da Sanofi, que
+        possuem doenças de alta e baixa complexidade, focando sempre no
+        acolhimento e bem-estar. Além disso, o Health Hub é um espaço de troca
+        de experiências e parceria.
       </p>
     </div>
   </div>

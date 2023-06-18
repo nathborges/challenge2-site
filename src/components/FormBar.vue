@@ -3,7 +3,7 @@
     <div>
       <h2>Assine nossa newsletter</h2>
       <p>
-        Busca mais informações informacões sobre o projeto Nome? Cadastre seu
+        Busca mais informações informacões sobre o projeto Health Hub? Cadastre seu
         e-mail e receba novidades
       </p>
       <div class="flex">

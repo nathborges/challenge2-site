@@ -1,7 +1,7 @@
 <template>
   <div class="container-question-bar">
     <div>
-      <h2>Como se conectar no Nome?</h2>
+      <h2>Como se conectar no Health Hub?</h2>
     </div>
     <div class="flex-div">
       <div class="flex-div-image-wrapper">

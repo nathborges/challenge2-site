@@ -1,18 +1,17 @@
 <template>
   <div class="container-bar">
     <div>
-      <h2>Qual é o nosso objetivo com o Nome?</h2>
+      <h2>Qual é o nosso objetivo com o Health Hub?</h2>
       <div class="flexText">
         <div class="reasons">
-          <p>Estar mais próximo do paciente, oferecendo saúde, educação.</p>
+          <p>Estar mais próximo do paciente, oferecendo saúde e educação.</p>
         </div>
         <div class="reasons">
-          <p>Oferecer um espaço de acolhimento.</p>
+          <p>Proporcionar um espaço de acolhimento.</p>
         </div>
         <div class="reasons">
           <p>
-            O estabelecimento poderá vender o lixo reciclável para empresas
-            especializadas em coleta de recicláveis.
+            Transformar a vida dos clientes da Sanofi.
           </p>
         </div>
       </div>
