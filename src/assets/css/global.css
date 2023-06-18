@@ -1,0 +1,14 @@
+@font-face {
+    font-family: arboria-bold;
+    src: url(../fonts/Arboria-Bold/Arboria-Bold.ttf);
+}
+
+@font-face {
+    font-family: arboria1;
+    src: url(../fonts/Arboria-Book/Arboria-Book.ttf);
+}
+
+@font-face {
+    font-family: lato, sans-serif;
+    src: url(https://use.typekit.net/ago0xzg.css)
+}
