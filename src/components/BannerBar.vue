@@ -1,5 +1,5 @@
 <template>
-  <NavBar/>
+  <NavBar />
   <div class="container">
     <div class="slogan-div">
       <p class="slogan">
@@ -14,61 +14,65 @@
 </template>
 
 <script>
-import NavBar from './NavBar.vue';
+import NavBar from "./NavBar.vue";
 
 export default {
   name: "BannerBar",
   components: {
     NavBar,
-  }
+  },
 };
-
 </script>
 
 <style>
 .container {
   display: flex;
   width: 100%;
-  background-image: url('../assets/plastica.jpg');
+  background-image: url("../assets/plastica.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-bottom: 40px;
 }
+
 .slogan {
   text-align: left;
   font-size: 55px;
   font-family: "arboria-bold";
-  color: #3D3A70;
+  color: #3d3a70;
 }
 .image-div {
   flex: 2;
   display: flex;
   justify-content: right;
+  
 }
+
 .slogan-div {
   margin: 90px;
   padding-left: 90px;
   flex: 1;
+  display: flex;
 }
+
 .banner {
   justify-self: right;
   margin-right: 70px;
 }
 
 .pulse-animation {
-   animation: pulse 5s infinite;
+  animation: pulse 5s infinite;
 }
 
 @keyframes pulse {
-   0% {
-      transform: scale(0.8);
-   }
-   70% {
-      transform: scale(0.85);
-   }
-   100% {
-      transform: scale(0.8);
-   }
+  0% {
+    transform: scale(0.8);
+  }
+  70% {
+    transform: scale(0.85);
+  }
+  100% {
+    transform: scale(0.8);
+  }
 }
 
 @media screen and (max-width: 992px) {
@@ -100,6 +104,10 @@ export default {
     height: 200px;
     margin-right: -100px;
     filter: blur(2px);
+  }
+
+  .image-div {
+    visibility: hidden;
   }
 }
 </style>

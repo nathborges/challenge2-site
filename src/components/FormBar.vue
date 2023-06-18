@@ -114,6 +114,9 @@ p {
 @media screen and (max-width: 992px) {
   .flex {
     flex-direction: column;
+    align-items: center;
+    gap: 4vh;
   }
+
 }
 </style>
